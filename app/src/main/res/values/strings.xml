@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RecyclerViewFilter</string>
+    <string-array name="courses">
+        <item>Java</item>
+        <item>JQuery</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Spring</item>
+        <item>Spring Boot</item>
+        <item>C#</item>
+        <item>Android</item>
+        <item>Network</item>
+        <item>OCP</item>
+        <item>OCA</item>
+        <item>Angular</item>
+        <item>React</item>
+        <item>JavaScript</item>
+        <item>PHP</item>
+        <item>HTML</item>
+        <item>CSS</item>
+    </string-array>
+</resources>
